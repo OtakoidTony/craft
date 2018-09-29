@@ -20,28 +20,4 @@ layout: default
 건담을 만어보고 싶었지만 Money가 안되서 못 만든 사람은 손! 돈은 줄 수 없지만, 건담을 만들어 보는 체험을 하고 가세요!!! 게다가 만든 건담은 가져갈 수 있다고요~!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-```markdown
-Syntax highlighted code bloc
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
+jhghgh
