@@ -4,7 +4,7 @@
 
 이번 동아리 체험은 이전과는 다르게 게임!!! 조립!!! 구경만 하는 것이 아닌 직접 체험해볼 수 있는 기회를 드립니다~!
 
-### Header 3
+### Header 
 
 
 You can use the [editor on GitHub](https://github.com/OtakoidTony/craft/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
