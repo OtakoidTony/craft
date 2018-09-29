@@ -14,6 +14,10 @@ layout: default
 재밌는 게임! 중간기말중간기말... 힘들었죠? (그렇죠???) 와서 재밌게 게임하면서 힘들었던 시간은 잠시 잊어버리자구요~?  
 게다가! 이 게임은 우승한 참가자한테는 선물도 줍니다~!
 
+
+### 건담 조립
+
+건담을 만어보고 싶었지만 Money가 안되서 못 만든 사람은 손! 돈은 줄 수 없지만, 건담을 만들어 보는 체험을 하고 가세요!!! 게다가 만든 건담은 가져갈 수 있다고요~!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 
